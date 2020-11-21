@@ -7,8 +7,9 @@ export default function ListItemSeparator() {
 
 const styles = StyleSheet.create({
   separator: {
-    width: "100%",
+    
     height: 1,
     backgroundColor: colors.light,
+   marginHorizontal:"15px"
   },
 });

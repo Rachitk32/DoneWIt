@@ -39,6 +39,9 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     padding: 15,
     backgroundColor: colors.white,
+    marginHorizontal:"10px",
+    borderRadius:"6px",
+    
   },
   image: {
     width: 70,
@@ -47,6 +50,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontWeight: "700",
+    color:colors.dark
   },
   detailsContainer: {
     marginLeft: 10,
