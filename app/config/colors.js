@@ -3,7 +3,6 @@ export default {
   secondary: "#4ecdc4",
   black: "#000",
   medium: "#6e6969",
- 
   danger: "#ff5252",
   
   // Light Theme
